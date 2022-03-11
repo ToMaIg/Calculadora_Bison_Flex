@@ -31,7 +31,7 @@ void help(){
     printf("- sin(x) -> devuelve el seno de la expresión x.\n");
     printf("- tan(x) -> devuelve la tangente de la expresión x.\n");
     printf("- exp(x) -> devuelve el valor exponencial de la expresión x.\n");
-    printf("- log(x) -> devuelve el logaritoma de la expresión x.\n");
+    printf("- log(x) -> devuelve el logarítmica de la expresión x.\n");
     printf("- sqrt(x) -> devuelve la raíz cuadrada de la expresión x. \n");
     printf("COMANDOS:\n");
     printf("- worskpace -> ver variables del workspace.\n");
